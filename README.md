@@ -5,7 +5,7 @@
 1. Ability to set weightage for each criteria on which the algorithm will distribute kitty.
 2. Ability to retrieve stored agent data and export the data.
 3. Min and Max cap of scores and kitty.
-4. Deletetion and intuitive viewing options
+4. Deletion and intuitive viewing options
 
 ## Overview
 A Python 3 command-line application for allocating sales incentives among agents, with:
